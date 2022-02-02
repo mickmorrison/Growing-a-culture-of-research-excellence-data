@@ -13,6 +13,6 @@ The following search query was run on Scopus.com to identify all publications by
 
 ## Data:
 This repository includes:
-* The Scopus.com 'analysis' export [Binary file] 'Scopus Summary Data.pdf'
-* The exported resulting publications as both a *.csv and *.ris file (Scopus Publications.ris, Scopus publications.csv)
+* The Scopus.com 'analysis' export [Binary file] 'scopus-summary-data.pdf'
+* The exported resulting publications as both a *.csv and *.ris file ('scopus-publication-data.ris', 'scopus-publication-data.csv')
 
