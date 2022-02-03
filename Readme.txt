@@ -6,7 +6,7 @@ This repository contains supporting data for the Nature Careers opinion piece, '
 
 ## Method:
 
-The following search query was run on Scopus.com to identify all publications by academic staff in the discipline of archaeology, affiliated with Flinders University, for the period 2010-2020. This dataset excludes publications while authors were affiliated with other institutions. It includes publications by new appointments that list Flinders University as the institutional affiliation. It is restricted to articles, book chapters and books. Other outputs have been excluded. 
+The following search query was run on Scopus.com to identify all publications by academic staff in the discipline of archaeology, affiliated with Flinders University, for the period 2010-2020. This dataset excludes publications while authors were affiliated with other institutions. It includes publications by new appointments that list Flinders University as the institutional affiliation.
 
 ### Search Query
 
